@@ -38,7 +38,7 @@ class ForgotPasswordScreen extends GetView<ForgotPassController> {
                 text: TextSpan(
                   children: [
                     TextSpan(
-                      text: 'Forgot Password',
+                      text: 'Forget Password',
                       style: GoogleFonts.poppins(
                         fontSize: 12.0,
                         fontWeight: FontWeight.w500,
